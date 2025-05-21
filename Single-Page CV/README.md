@@ -8,7 +8,7 @@ A clean and responsive one-page resume layout.
 - Easy to customize
 
 ## Usage
-Open `index.html` in your browser and start editing the content.
+Open `Home.html` in your browser and start editing the content.
 
 ## Tech Stack
 - HTML
