@@ -1,1 +1,36 @@
 
+body {
+    font-family: Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    max-width: 700px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 0;
+  }
+  
+  .subtitle {
+    color: green;
+    margin-top: 0;
+  }
+  
+  h3 {
+    color: green;
+    margin-top: 30px;
+  }
+  
+  .name {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
