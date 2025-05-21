@@ -14,3 +14,6 @@ Open `Home.html` in your browser and start editing the content.
 - HTML
 - CSS
 
+## Project URL
+https://github.com/SamarthSaketh/Roadmapsh_Projects/tree/main/Single-Page%20CV
+https://roadmap.sh/projects/single-page-cv
