@@ -33,7 +33,8 @@ Single-Page CV/
 1. Clone the repo:
    ```bash
    git clone https://github.com/SamarthSaketh/Roadmapsh_Projects.git
-2. cd Roadmapsh_Projects/Single-Page CV
+2. ```bash
+   cd Roadmapsh_Projects/Single-Page CV
 3. Open Home.html in any browser.
 
 
