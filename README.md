@@ -1,4 +1,4 @@
-# roadmapSH Projects
+# RoadmapSH Projects
 
 This repository contains beginner-friendly HTML projects to help understand web development fundamentals. Below are the two included projects:
 
